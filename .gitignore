@@ -1,5 +1,7 @@
 .DS_Store
 Makefile
+Gemfile.lock
+.rvmrc
 *.log
 *.bundle
 *.o

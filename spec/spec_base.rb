@@ -7,7 +7,7 @@ $:.unshift $root.parent.join('ext').expand_path
 
 require 'rubygems'
 require 'fileutils'
-require 'bacon'
+require 'bundler/setup'
 require 'tokyo_tyrant'
 require 'tokyo_tyrant/balancer'
 
